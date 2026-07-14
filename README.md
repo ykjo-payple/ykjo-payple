@@ -1,4 +1,4 @@
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+[![My GitFut card](https://gitfut.com/ykjo-payple.png)](https://gitfut.com/ykjo-payple)
 
 <!--
 **ykjo-payple/ykjo-payple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
